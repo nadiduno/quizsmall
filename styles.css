@@ -55,7 +55,7 @@ button:hover {
     color: var(--text-footer);
   }
   img{
-    margin-top:-5rem;
-    margin-left:15rem;
+    margin-top:1rem;
+    margin-left:20rem;
     transition: opacity 400ms;
   }
